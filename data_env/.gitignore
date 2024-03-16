@@ -1,0 +1,25 @@
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+bin/
+include/
+lib/
+lib64/
+data_env/bin/
+data_env/lib/
+data_env/lib64
+data_env/pyenv.cfg
+pyvenv.cfg
+
+
+
+
+
+data_env/data_manager/Lista negociada Febrero 2023.xlsx
+data_env/data_manager/Miscelaneos REF_TyP 2022 - Abril.xlsx
+data_env/data_manager/nuevos_precios_subir.csv
+data_env/data_manager/product.pricelist.csv
+data_env/data_manager/.~lock.product.pricelist.csv#
